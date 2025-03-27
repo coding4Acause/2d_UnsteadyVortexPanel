@@ -1,5 +1,0 @@
-var searchData=
-[
-  ['panel',['panel',['../geometry_8cpp.html#a1b615876b0b76ce833afd9d955481db5',1,'panel(VectorXd &amp;l_x, VectorXd &amp;l_y, VectorXd &amp;l, VectorXd &amp;x_pp, VectorXd &amp;y_pp):&#160;geometry.cpp'],['../geometry_8h.html#a1b615876b0b76ce833afd9d955481db5',1,'panel(VectorXd &amp;l_x, VectorXd &amp;l_y, VectorXd &amp;l, VectorXd &amp;x_pp, VectorXd &amp;y_pp):&#160;geometry.cpp']]],
-  ['plot_5fwake',['plot_wake',['../gnuplot_8cpp.html#a619db5b30974b5df92a0abb8d6f9309b',1,'plot_wake(FILE *gnuplotPipe, const vector&lt; double &gt; &amp;gamma_wake_x_location, const vector&lt; double &gt; &amp;gamma_wake_y_location, double wake_x1, double wake_y1, double wake_x2, double wake_y2, const VectorXd &amp;x_pp, const VectorXd &amp;y_pp):&#160;gnuplot.cpp'],['../gnuplot_8h.html#a619db5b30974b5df92a0abb8d6f9309b',1,'plot_wake(FILE *gnuplotPipe, const vector&lt; double &gt; &amp;gamma_wake_x_location, const vector&lt; double &gt; &amp;gamma_wake_y_location, double wake_x1, double wake_y1, double wake_x2, double wake_y2, const VectorXd &amp;x_pp, const VectorXd &amp;y_pp):&#160;gnuplot.cpp']]]
-];
